@@ -1,0 +1,13 @@
+tensorflow
+
+numpy
+
+matplotlib
+
+kaggle
+
+zipfile
+
+os
+
+json

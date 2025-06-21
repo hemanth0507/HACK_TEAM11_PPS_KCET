@@ -1,0 +1,11 @@
+Problem Statement
+
+Classify Favorite Fruits from Drawn Images
+
+ML Algorithm: CNN – Multiclass Classification
+Domain: Food Tech
+
+Problem Statement:
+Your task is to classify drawn images of fruits like Apple, Banana, Orange, Mango. Ask users to upload rough fruit drawings or colored shapes via Google Forms. You need to build a multiclass CNN classifier that predicts which fruit is represented.
+
+You can limit to 3–4 fruit classes for balance. Resize, grayscale, and preprocess the images before training.
